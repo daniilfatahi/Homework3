@@ -13,7 +13,7 @@ public class Task6 {
         if (Math.abs(x) > Math.abs(y)) {
             System.out.println(x + " magnitude is greater than " + y);
         }
-        else if ((Math.abs(y)) < Math.abs(x)) {
+        else if ((Math.abs(x)) < Math.abs(y)) {
     System.out.println(y + " magnitude is greater than " + x);
         }
         else if (x == y) {
